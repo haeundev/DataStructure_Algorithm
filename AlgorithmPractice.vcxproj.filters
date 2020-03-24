@@ -22,6 +22,9 @@
     <Filter Include="소스 파일\Algorithm\Search">
       <UniqueIdentifier>{54d79b69-ffc7-401d-a253-bc8efbb5f27c}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Practice">
+      <UniqueIdentifier>{7da601cc-8f7e-481b-8509-a97e508de97f}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="BinarySearch.cpp">
@@ -30,13 +33,31 @@
     <ClCompile Include="LinkedList.cpp">
       <Filter>소스 파일\DataStructure</Filter>
     </ClCompile>
-    <ClCompile Include="main.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="Tree.cpp">
+      <Filter>소스 파일\DataStructure</Filter>
+    </ClCompile>
+    <ClCompile Include="SelectionSort.cpp">
+      <Filter>소스 파일\Algorithm\Search</Filter>
+    </ClCompile>
+    <ClCompile Include="SequentialSearch.cpp">
+      <Filter>소스 파일\Algorithm\Search</Filter>
+    </ClCompile>
+    <ClCompile Include="Stack.cpp">
+      <Filter>소스 파일\DataStructure</Filter>
+    </ClCompile>
+    <ClCompile Include="ReverseArray.cpp">
+      <Filter>소스 파일\Practice</Filter>
+    </ClCompile>
+    <ClCompile Include="OperatorOverloading.cpp">
+      <Filter>소스 파일\Practice</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="LinkedList.h">
       <Filter>소스 파일\DataStructure</Filter>
+    </ClInclude>
+    <ClInclude Include="Stack.h">
+      <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

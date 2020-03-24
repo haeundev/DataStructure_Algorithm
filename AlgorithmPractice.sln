@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
-VisualStudioVersion = 16.0.29806.167
+VisualStudioVersion = 16.0.29709.97
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AlgorithmPractice", "AlgorithmPractice\AlgorithmPractice.vcxproj", "{B3A3B036-60C3-40B0-8D70-00858B6CEA61}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AlgorithmPractice", "AlgorithmPractice.vcxproj", "{B3A3B036-60C3-40B0-8D70-00858B6CEA61}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -26,6 +26,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {DD331314-5B48-4706-B1D8-BE50DA155504}
+		SolutionGuid = {1F1B004A-D8AA-472E-BEB8-8965AACD8DE3}
 	EndGlobalSection
 EndGlobal
